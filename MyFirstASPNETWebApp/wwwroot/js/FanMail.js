@@ -6,4 +6,6 @@
     alert(msg);
 
     $("#picGanderson").fadeToggle();
+
+    alert('Hello')
 })
